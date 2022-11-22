@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Sitdikov-Denis/fullstack-javascript-project-44.git"
   },
-  "author": "",
+  "author": "Denis Sitdikov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sitdikov-Denis/fullstack-javascript-project-44/issues"
@@ -19,5 +19,14 @@
   "type": "module",
   "bin": {
     "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.31.11"
   }
 }
