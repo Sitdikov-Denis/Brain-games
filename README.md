@@ -20,7 +20,7 @@ for start:
 ```
 brain-even
 ```
-[![asciicast](https://asciinema.org/a/ebVNjCs8mxOjzxdg2W4YAUqaf)
+[![asciicast](https://asciinema.org/a/ebVNjCs8mxOjzxdg2W4YAUqaf.svg)](https://asciinema.org/a/ebVNjCs8mxOjzxdg2W4YAUqaf)
 
 ---
 
@@ -30,7 +30,7 @@ for start:
 ```
 brain-calc
 ```
-[![asciicast](https://asciinema.org/a/gYhG4zuCcyXcLuMdqCUAsY3ls)
+[![asciicast](https://asciinema.org/a/gYhG4zuCcyXcLuMdqCUAsY3ls.svg)](https://asciinema.org/a/gYhG4zuCcyXcLuMdqCUAsY3ls)
 
 ---
 
@@ -40,7 +40,7 @@ for start:
 ```
 brain-gcd 
 ```
-[![asciicast](https://asciinema.org/a/NkVB5QbHN7nM3M9OzgF02vFgx)
+[![asciicast](https://asciinema.org/a/NkVB5QbHN7nM3M9OzgF02vFgx.svg)](https://asciinema.org/a/NkVB5QbHN7nM3M9OzgF02vFgx)
 
 ---
 
