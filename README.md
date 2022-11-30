@@ -54,3 +54,13 @@ brain-progression
 [![asciicast](https://asciinema.org/a/vXVwgh2CrCl7srfDNBfCReL7N.svg)](https://asciinema.org/a/vXVwgh2CrCl7srfDNBfCReL7N)
 
 ---
+
+## brain-prime game demonstration:
+### Is the number prime?
+for start:
+```
+brain-prime
+```
+[![asciicast](https://asciinema.org/a/ZXhpzUNnSQnZvfbRbuuElFeL5.svg)](https://asciinema.org/a/ZXhpzUNnSQnZvfbRbuuElFeL5)
+
+---
