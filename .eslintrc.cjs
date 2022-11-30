@@ -17,7 +17,6 @@ module.exports = {
     'no-console': 0,
     'import/extensions': 0,
     'no-param-reassign': 0,
-    'linebreak-style': 0
+    'linebreak-style': 0,
   },
 };
-
