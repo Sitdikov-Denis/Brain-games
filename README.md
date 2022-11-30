@@ -44,3 +44,13 @@ brain-gcd
 
 ---
 
+## brain-progression game demonstration:
+### Insert missing number
+for start:
+```
+
+brain-progression
+```
+[![asciicast](https://asciinema.org/a/vXVwgh2CrCl7srfDNBfCReL7N.svg)](https://asciinema.org/a/vXVwgh2CrCl7srfDNBfCReL7N)
+
+---
